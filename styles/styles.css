@@ -316,7 +316,7 @@ button{
 .footer{
     height: 140px;
     padding: 20px;
-    background-color: #45a049;
+    background-color: rgb(83, 121, 246);
 
     display: grid;
     grid-template-columns: repeat(
